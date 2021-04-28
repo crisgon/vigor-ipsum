@@ -25,6 +25,7 @@ const ipsum = [
   "Votem em mim todo mundo. Podem votar. Eu me solto. Estou indignado. AHHHHHHH Estou indignado. Eu não aguento mais. Chega, me bota no paredão. Eu quero sair. Tirem-me daqui. Eu vou sair. Acabou, acabou, acabou, acabou. ",
   "Meu deus, o que é aquilo ali? produção? Eu vejo a luz. ",
   "Cachorraaada! ",
+  "Eu me regozijei, eu fiz cachorrada",
 ];
 
 function generateParagraphs() {
